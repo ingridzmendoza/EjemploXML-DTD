@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resultados SYSTEM "Resultados.dtd">
+<resultados>
+    <juego>
+        <fecha>
+            Domingo 24 de Septiembre 2023
+        </fecha>
+        <equipos>
+            <equipoLocal> Toluca </equipoLocal>
+            <equipoVisitante> America </equipoVisitante>
+        </equipos>
+        <golesFinales> 1-1 </golesFinales>
+        <goles>
+            <gol>
+                <jugador> Araujo </jugador>
+                <minuto> 54 </minuto>
+            </gol>
+            <gol>
+                <jugador> Valdes </jugador>
+                <minuto> 25 </minuto>
+            </gol>
+        </goles>
+    </juego>
+
+    <juego>
+    <fecha>
+        Domingo 24 de Septiembre 2023
+    </fecha>
+    <equipos>
+        <equipoLocal> Cruz Azul </equipoLocal>
+        <equipoVisitante> Queretaro </equipoVisitante>
+    </equipos>
+    <golesFinales> 1-3 </golesFinales>
+    <goles>
+        <gol>
+            <jugador> Rotondi </jugador>
+            <minuto> 45 </minuto>
+        </gol>
+        <gol>
+            <jugador> Sandoval </jugador>
+            <minuto> 50 </minuto>
+        </gol>
+        <gol>
+            <jugador> Zuniga </jugador>
+            <minuto> 70 </minuto>
+        </gol>
+        <gol>
+            <jugador> Cordero </jugador>
+            <minuto> 87 </minuto>
+        </gol>
+    </goles>
+    </juego>
+
+    <juego>
+        <fecha>
+            Domingo 24 de Septiembre 2023
+        </fecha>
+        <equipos>
+            <equipoLocal> Santos </equipoLocal>
+            <equipoVisitante> Necaxa </equipoVisitante>
+        </equipos>
+        <golesFinales> 2-5 </golesFinales>
+        <goles>
+            <gol>
+                <jugador> Preciado </jugador>
+                <minuto> 70 </minuto>
+            </gol>
+            <gol>
+                <jugador> Andrade </jugador>
+                <minuto> 32 </minuto>
+            </gol>
+            <gol>
+                <jugador> Monreal </jugador>
+                <minuto> 49 </minuto>
+            </gol>
+            <gol>
+                <jugador> Arce </jugador>
+                <minuto> 64 </minuto>
+            </gol>
+            <gol>
+                <jugador> Pena </jugador>
+                <minuto> 67 </minuto>
+            </gol>
+        </goles>
+    </juego>
+</resultados>
